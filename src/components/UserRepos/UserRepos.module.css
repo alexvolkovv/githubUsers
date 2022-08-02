@@ -1,0 +1,10 @@
+.repos {
+    margin-left: 50px;
+    width: 50vw;
+}
+
+.items {
+    display: flex;
+
+    flex-wrap: wrap;
+}

@@ -1,0 +1,22 @@
+.repo {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 45%;
+    margin: 10px;
+}
+
+.lang {
+    color: red;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.updated {
+    color: blue;
+}
+
+.link {
+    display: inline-block;
+    margin-bottom: 5px;
+}

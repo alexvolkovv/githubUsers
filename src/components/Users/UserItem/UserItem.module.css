@@ -1,0 +1,26 @@
+.item {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #ccc;
+    width: 25%;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+.avatar {
+    margin-right: 20px;
+}
+
+.title {
+    margin-bottom: 5px;
+    font-size: 22px;
+    font-weight: 600;
+    max-width: 100px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
